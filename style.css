@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Montserrat&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  font-family: "Montserrat", sans-serif;
+}
+
+.home-page {
+  min-height: 100vh;
+  background-image: linear-gradient(
+      157deg,
+      rgba(29, 27, 27, 0.9) 15.1%,
+      rgba(0, 0, 0, 0) 31.43%
+    ),
+    linear-gradient(
+      19deg,
+      rgba(26, 26, 26, 0.98) 22.69%,
+      rgba(29, 27, 27, 0) 68.38%
+    ),
+    url(./images/krakenimages-376-kni-spl-e-unsplash-1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.navbar {
+  padding: 62px 0 0 175px;
+}
+
+.logo {
+  margin-right: 36.52px;
+}
+
+ul {
+  gap: 40px;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #f8f8f9;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.hero-section {
+  padding: 223.21px 0 0 175px;
+}
+
+.hero-head {
+  color: #fff;
+  font-size: 77px;
+  font-weight: 700;
+  font-family: "Ubuntu", sans-serif;
+  margin-bottom: 20px;
+}
+
+.hero-paragraph {
+  color: #e6dede;
+  font-size: 15px;
+  font-weight: 600;
+}
