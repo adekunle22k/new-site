@@ -53,7 +53,7 @@ ul li a {
 }
 
 .hero-section {
-  padding: 223.21px 0 0 175px;
+  padding: 80.21px 0 0 175px;
 }
 
 .hero-head {
@@ -71,10 +71,11 @@ ul li a {
   margin-bottom: 34px;
 }
 
-.hero-buttons{
-    display: flex;
-    flex: start;
-    gap: 61.6px;
+.hero-buttons {
+  margin-top: 70px;
+  display: flex;
+  flex: start;
+  gap: 61.6px;
 }
 
 button {
@@ -86,4 +87,38 @@ button {
   background: linear-gradient(180deg, #130540 0%, #54428e 100%);
   box-shadow: 0px 4.14283px 4.14283px 0px rgba(20, 89, 186, 0.25);
   padding: 15px 30px;
+}
+
+.features-page{
+  min-height: 100vh;
+}
+
+.features-head {
+  padding: 207px 72.39px 0 700px;
+  color: #373737;
+  font-size: 60px;
+  font-weight: 600;
+}
+
+.features{
+  align-content: center;
+  gap: 14.74px;
+}
+
+.features-1{
+  width: 327.174px;
+  height: 370.174px;
+  border: 2px solid black;
+}
+
+.features-2{
+  width: 327.174px;
+  border: 2px solid black;
+  height: 370.174px;
+}
+
+.features-3{
+  width: 327.174px;
+  height: 370.174px;
+  border: 2px solid black;
 }
