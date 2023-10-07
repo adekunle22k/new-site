@@ -89,7 +89,11 @@ button {
   padding: 15px 30px;
 }
 
-.features-page{
+.features {
+  padding: 72.39px 150px;
+}
+
+.features-page {
   min-height: 100vh;
 }
 
@@ -100,28 +104,27 @@ button {
   font-weight: 600;
 }
 
-
-.features{
-  padding-left: 223px;
-}
-
-.features-1{
+.features-1,
+.features-2,
+.features-3 {
   width: 327.174px;
-  height: 370.174px;
-  border: 2px solid black;
+  height: 310px;
   margin-right: 14.74px;
 }
 
-.features-2{
-  width: 327.174px;
-  border: 2px solid black;
-  height: 370.174px;
-  margin-right: 14.74px;
+.features-1_head,
+.features-2_head,
+.features-3_head {
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 55.74px;
+  margin-bottom: 10px;
 }
 
-.features-3{
-  width: 327.174px;
-  height: 370.174px;
-  border: 2px solid black;
-  margin-right: 14.74px;
+.features-1_paragraph,
+.features-2_paragraph,
+.features-3_paragraph {
+  color: #898989;
+  font-size: 18px;
+  font-weight: 400;
 }
