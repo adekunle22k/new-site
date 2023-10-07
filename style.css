@@ -100,25 +100,28 @@ button {
   font-weight: 600;
 }
 
+
 .features{
-  align-content: center;
-  gap: 14.74px;
+  padding-left: 223px;
 }
 
 .features-1{
   width: 327.174px;
   height: 370.174px;
   border: 2px solid black;
+  margin-right: 14.74px;
 }
 
 .features-2{
   width: 327.174px;
   border: 2px solid black;
   height: 370.174px;
+  margin-right: 14.74px;
 }
 
 .features-3{
   width: 327.174px;
   height: 370.174px;
   border: 2px solid black;
+  margin-right: 14.74px;
 }
