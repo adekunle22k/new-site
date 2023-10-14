@@ -128,3 +128,66 @@ button {
   font-size: 18px;
   font-weight: 400;
 }
+
+.mission_vision {
+  width: 1226px;
+  height: 398.188px;
+  background: linear-gradient(112deg, #04014c 2.86%, #5b42ab 87.34%);
+  gap: 200px;
+  padding-left: 100px;
+}
+
+.mission_logo {
+  gap: 3px;
+}
+
+.line_mission {
+  background-color: #fffefe;
+  width: 56px;
+  height: 3px;
+}
+
+.mission_header {
+  color: #fffefe;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.mission_paragraph {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 50px;
+}
+
+.vision_logo {
+  gap: 3px;
+}
+
+.line_vision {
+  background-color: #fffefe;
+  width: 56px;
+  height: 3px;
+}
+
+.vision_header {
+  color: #fffefe;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.vision_paragraph {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 50px;
+}
+
+.middle_line {
+  width: 2px;
+  height: 197px;
+  background: #fff;
+  position: absolute;
+  top: 1440px;
+  left: 620px;
+}
