@@ -130,7 +130,7 @@ button {
 }
 
 .mission_vision {
-  width: 1226px;
+  width: 1349px;
   height: 398.188px;
   background: linear-gradient(112deg, #04014c 2.86%, #5b42ab 87.34%);
   gap: 200px;
@@ -190,4 +190,42 @@ button {
   position: absolute;
   top: 1440px;
   left: 620px;
+}
+
+.other_features {
+  width: 1349px;
+  height: 500.273px;
+  background: linear-gradient(112deg, #01204c 2.86%, #5b42ab 87.34%);
+  border: 3px solid black;
+  margin-top: 160px;
+  padding-top: 60px;
+}
+
+.other_features_header {
+  color: #fff;
+  font-size: 60px;
+  font-weight: 700;
+  margin-left: 200px;
+}
+
+.other_features_paragraph {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 60px;
+  margin-left: 145px;
+}
+
+.the_features {
+  gap: 20px;
+}
+
+.the_features_1,
+.the_features_2,
+.the_features_3,
+.the_features_4 {
+  height: 300px;
+  width: 150px;
+  background: #FDFDFF;
+  border: none;
 }
