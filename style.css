@@ -218,6 +218,8 @@ button {
 
 .the_features {
   gap: 20px;
+  margin-top: 100px;
+  margin-left: 135px;
 }
 
 .the_features_1,
@@ -225,7 +227,28 @@ button {
 .the_features_3,
 .the_features_4 {
   height: 300px;
-  width: 150px;
-  background: #FDFDFF;
+  width: 245px;
+  background: #fdfdff;
   border: none;
+  padding-top: 40px;
+  padding-left: 30px;
+}
+
+.the_features-1_head,
+.the_features-2_head,
+.the_features-3_head,
+.the_features-4_head {
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+.the_features-1_p,
+.the_features-2_p,
+.the_features-3_p,
+.the_features-4_p {
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 10px;
+  color: #787878;
 }
