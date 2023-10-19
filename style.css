@@ -196,7 +196,7 @@ button {
   width: 1349px;
   height: 500.273px;
   background: linear-gradient(112deg, #01204c 2.86%, #5b42ab 87.34%);
-  border: 3px solid black;
+  /* border: 3px solid black; */
   margin-top: 160px;
   padding-top: 60px;
 }
@@ -217,9 +217,9 @@ button {
 }
 
 .the_features {
-  gap: 20px;
+  gap: 30px;
   margin-top: 100px;
-  margin-left: 135px;
+  margin-left: 140px;
 }
 
 .the_features_1,
